@@ -1,0 +1,27 @@
+{
+  "name": "出差英语 · 30 天",
+  "short_name": "出差英语",
+  "description": "永久免费、无需登录的出差英语学习应用。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f2ec",
+  "theme_color": "#163e3f",
+  "categories": ["education", "travel"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
